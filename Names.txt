@@ -1,0 +1,10 @@
+{Student}
+green
+{Student}
+(0,255,0)
+{Student}
+(0,255,0)
+{Student}
+red
+{Student}
+blue
